@@ -1,0 +1,15 @@
+{
+  "template": "[{type}] {topic}",
+  "defaultType": "discuss",
+  "prefixes": {
+    "bugfix": "Investigate or fix an unexpected failure or regression.",
+    "feat": "Design or implement a concrete new capability or enhancement.",
+    "discuss": "Explore options or make a decision without a primary implementation task.",
+    "learn": "Build understanding through explanation, reading, or practice.",
+    "refactor": "Change internal structure while preserving behavior.",
+    "docs": "Write or update documentation as the main deliverable.",
+    "review": "Evaluate a change, design, or deliverable and report findings.",
+    "ops": "Deploy, migrate, monitor, or operate a live system.",
+    "chore": "Perform routine maintenance, dependency, or tooling work."
+  }
+}
